@@ -1,0 +1,6 @@
+<View xmlns="sap.ui.core.mvc">
+   
+   <Button xmlns="sap.m"></Button>
+   <Label xmlns="sap.m"></Label>
+   <Input xmlns="sap.m"></Input>
+</View>
